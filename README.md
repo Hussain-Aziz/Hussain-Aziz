@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussain Aziz Saif</h1>
 
-[![Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://hussain-aziz.github.io/)
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
